@@ -19,4 +19,4 @@ Menu and dialog in different languages, unicode characters are working fine.
 Incase default font doesn't render your text, you can change it to something else.
 
 ## Language Packs
-Chinese: https://github.com/tcdw/lunar-magic-chinese-translating
+Chinese: [lm-menu/lunar-magic-chinese-translating](https://github.com/tcdw/lunar-magic-chinese-translating)

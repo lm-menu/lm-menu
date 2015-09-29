@@ -1,10 +1,10 @@
 # lm-menu
-A generic translation engine designed for Lunar Magic.
+A generic translation engine designed for [Lunar Magic](http://fusoya.eludevisibility.org/lm/).
 
 ## Build
 Open it with Visual Studio 2015 and build it.
 
-Debug build will require `VC++ Runtime 2015`.
+Debug build will require end-user to install `VC++ Runtime 2015`, which you can get it from [Microsoft](https://www.microsoft.com/download/details.aspx?id=48145).
 
 ## Run
 Build and place it same directory as Lunar Magic.

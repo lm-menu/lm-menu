@@ -1,0 +1,83 @@
+; Blacklist
+; All stirng in this file will not be translated.
+
+; It can go on and on
+Lunar Magic.ff1
+Lunar Magic.ff2
+Lunar Magic.ff3
+Lunar Magic.ff4
+Lunar Magic.ff5
+Lunar Magic.ff6
+Lunar Magic.ff7
+Lunar Magic.ff8
+Lunar Magic.ff9
+
+%s,1
+"%s" "%%1"
+%i,%i:%X
+File%i
+\%02X
+%03X
+%03X 
+%03X\t
+%02X
+%03X-%s\t
+#%02X
+%s
+ (%02X)
+%X
+%X 
+: Act %X
+X:%X Y:%X - %X
+%s:
+%02X (%06X)
+FG1=%03X, FG2=%03X, FG3=%03X, FG4=%03X...%s
+%s: %03X
+X:%X Y:%X (Map16 %X) - %X
+X:%X Y:%X (%X 2x2) - %X
+X:%X Y:%X (%X 6x6) - %X
+%X,%X:%X L:%X E:%X D:%X I:%X
+%X,%X:%X
+X:%X Y:%X
+%i,%i
+%i
+%X,%X: %X
+usertoolbar.txt
+%c:\...\%s
+.ssc
+.msc
+.dsc
+.m16
+.s16
+%sGraphics\
+%sExGraphics\
+%s%s
+X=%01X, P=%01X, S=%02X
+FG=%02X
+BG=%02X
+X=%01X
+Y=%01X
+#%03X
+%02X : %s
+Y=%01X, P=%01X, S=%02X
+%02X: TS=%02X, CG=%02X, TM=%02X, L=%02X, F=%02X, S=%02X
+%02X %s
+%02X\t%s
+ M1:%02X-%02X=%02X
+ M2:%02X-%02X=%02X
+ (%02X-E)
+%02X: M:%02X-%02X=%02X SP:%02X,%02X
+%s: 
+SP%i=%02X
+mwt
+mw2
+LG1=%03X, LG2=%03X, LG3=%03X, LG4=%03X : %s
+%X: %02X %s
+\r\n%06X\r\n%04X
+%X,%X - %X
+%i,%i - %i
+\r\n%i, %i, %i\r\n%i, %i
+GFX%02X.bin
+Bypass.lst
+%01X: FG1=%02X, FG2=%02X, BG=%02X, FG3=%02X T:%X (%s)
+%01X: SP1=%02X, SP2=%02X, SP3=%02X, SP4=%02X (%s)

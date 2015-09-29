@@ -1,0 +1,1568 @@
+Translator
+<your name here>, ...
+
+; Leave a not used translation on the top
+; Incase you insered a bom to this file.
+
+; Edit this file using Notepad++ or similar,
+; that can read/write UTF-8 no BOM.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; File
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+&Open ROM...
+&Open ROM...
+
+Open &Level Number...	Ctrl+D
+Open &Level Number...	Ctrl+D
+
+Open Level &Address...
+Open Level &Address...
+
+&Save Level to ROM	Ctrl+S
+&Save Level to ROM	Ctrl+S
+
+&Save Level to ROM as...	Ctrl+I
+&Save Level to ROM as...	Ctrl+I
+
+Open &Next Level in ROM	Pg-Up
+Open &Next Level in ROM	Pg-Up
+
+Open &Previous Level in ROM	Pg-Down
+Open &Previous Level in ROM	Pg-Down
+
+Open Level from &File...
+Open Level from &File...
+
+Save Level &to File	Ctrl+W
+Save Level &to File	Ctrl+W
+
+Save Level t&o File as...
+Save Level t&o File as...
+
+&Extract GFX from ROM
+&Extract GFX from ROM
+
+&Insert GFX to ROM...
+&Insert GFX to ROM...
+
+&Extract ExGFX from ROM
+&Extract ExGFX from ROM
+
+&Insert ExGFX to ROM...
+&Insert ExGFX to ROM...
+
+&Extract Old Bypass List from ROM...
+&Extract Old Bypass List from ROM...
+
+&Insert Old Bypass List to ROM...
+&Insert Old Bypass List to ROM...
+
+&Graphics
+&Graphics
+
+&Export Level Palette to File...
+&Export Level Palette to File...
+
+&Import Level Palette from File...
+&Import Level Palette from File...
+
+Extract Shared Palettes from &ROM...
+Extract Shared Palettes from &ROM...
+
+Insert Shared Palettes to RO&M...
+Insert Shared Palettes to RO&M...
+
+&Palettes
+&Palettes
+
+&Export Multiple Levels to Files...
+&Export Multiple Levels to Files...
+
+&Import Multiple Levels from Files...
+&Import Multiple Levels from Files...
+
+&Clear Original Level Data Area...
+&Clear Original Level Data Area...
+
+&Export Level to Image File...
+&Export Level to Image File...
+
+&Levels
+&Levels
+
+Run ROM in &Emulator	F4
+Run ROM in &Emulator	F4
+
+&Setup Emulator...
+&Setup Emulator...
+
+&Run/Stop Internal Emulator	Ctrl+F4
+&Run/Stop Internal Emulator	Ctrl+F4
+
+&Pause Internal Emulator	Pause
+&Pause Internal Emulator	Pause
+
+&Mute Internal Emulator
+&Mute Internal Emulator
+
+Swap &F4/Ctrl+F4
+Swap &F4/Ctrl+F4
+
+&Emulator
+&Emulator
+
+Expand ROM to &2MB
+Expand ROM to &2MB
+
+Expand ROM to &3MB
+Expand ROM to &3MB
+
+Expand ROM to &4MB
+Expand ROM to &4MB
+
+Expand ROM to &6MB (SA-1)
+Expand ROM to &6MB (SA-1)
+
+Expand ROM to &8MB (SA-1)
+Expand ROM to &8MB (SA-1)
+
+E&xpand ROM
+E&xpand ROM
+
+&Create a Full Restore Point...
+&Create a Full Restore Point...
+
+&Restore ROM to previous state...
+&Restore ROM to previous state...
+
+&Create IPS file for this ROM...
+&Create IPS file for this ROM...
+
+&Apply IPS file to this ROM...
+&Apply IPS file to this ROM...
+
+&Restore
+&Restore
+
+&Recent Files
+&Recent Files
+
+E&xit
+E&xit
+
+&File
+&Fichier
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Edit
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Edit Level Layer &1 Mode	`
+Edit Level Layer &1 Mode	`
+
+Edit Level Layer &2 Mode	`
+Edit Level Layer &2 Mode	`
+
+Edit &Sprites Mode	Esc
+Edit &Sprites Mode	Esc
+
+&Undo	Ctrl+Z
+&Undo	Ctrl+Z
+
+&Redo	Ctrl+Y
+&Redo	Ctrl+Y
+
+Cu&t	Ctrl+X
+Cu&t	Ctrl+X
+
+&Copy	Ctrl+C
+&Copy	Ctrl+C
+
+&Paste	Ctrl+V
+&Paste	Ctrl+V
+
+&Delete	Delete
+&Delete	Delete
+
+&Insert Manual...	Insert
+&Insert Manual...	Insert
+
+&Edit Manual...	Alt-Right Click
+&Edit Manual...	Alt-Right Click
+
+Increase &Z Order	=
+Increase &Z Order	=
+
+D&ecrease Z Order	-
+D&ecrease Z Order	-
+
+Increase Object Size &X	Shift-Right
+Increase Object Size &X	Shift-Right
+
+De&crease Object Size X	Shift-Left
+De&crease Object Size X	Shift-Left
+
+Increase Object Size &Y	Shift-Down
+Increase Object Size &Y	Shift-Down
+
+Dec&rease Object Size Y	Shift-Up
+Dec&rease Object Size Y	Shift-Up
+
+&Object Size
+&Object Size
+
+Conditional Direct Map16...
+Conditional Direct Map16...
+
+Remap Direct Map16...
+Remap Direct Map16...
+
+&Edit
+編集 (&E)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; View
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Layer &1 (Level)	1
+Layer &1 (Level)	1
+
+Layer &2 (Level/Image)	2
+Layer &2 (Level/Image)	2
+
+Layer &3 (Image)	3
+Layer &3 (Image)	3
+
+&Sprites	4
+&Sprites	4
+
+Sprite &Data (Hex code)	5
+Sprite &Data (Hex code)	5
+
+Screen E&xits	F1
+Screen E&xits	F1
+
+S&ub-Screen Boundaries	F2
+S&ub-Screen Boundaries	F2
+
+&Game View Screen	F3
+&Game View Screen	F3
+
+&Tile Grid	F8
+&Tile Grid	F8
+
+&Zoom x2	F10
+&Zoom x2	F10
+
+Level En&trance	F5
+Level En&trance	F5
+
+&Secondary Level Entrances	F6
+&Secondary Level Entrances	F6
+
+&Midway Point Entrance	F7
+&Midway Point Entrance	F7
+
+&Animation	6
+&Animation	6
+
+&Next Animated Frame	Ctrl+6
+&Next Animated Frame	Ctrl+6
+
+&Reset Animations	Shift+6
+&Reset Animations	Shift+6
+
+Custom Trigger 0
+Custom Trigger 0
+
+Custom Trigger 1
+Custom Trigger 1
+
+Custom Trigger 2
+Custom Trigger 2
+
+Custom Trigger 3
+Custom Trigger 3
+
+Custom Trigger 4
+Custom Trigger 4
+
+Custom Trigger 5
+Custom Trigger 5
+
+Custom Trigger 6
+Custom Trigger 6
+
+Custom Trigger 7
+Custom Trigger 7
+
+Custom Trigger 8
+Custom Trigger 8
+
+Custom Trigger 9
+Custom Trigger 9
+
+Custom Trigger A
+Custom Trigger A
+
+Custom Trigger B
+Custom Trigger B
+
+Custom Trigger C
+Custom Trigger C
+
+Custom Trigger D
+Custom Trigger D
+
+Custom Trigger E
+Custom Trigger E
+
+Custom Trigger F
+Custom Trigger F
+
+Next Custom	Ctrl+F12
+Next Custom	Ctrl+F12
+
+Previous Custom	Ctrl+F11
+Previous Custom	Ctrl+F11
+
+Activate Custom	Ctrl+F10
+Activate Custom	Ctrl+F10
+
+&Custom Triggers
+&Custom Triggers
+
+One Shot Trigger 00
+One Shot Trigger 00
+
+One Shot Trigger 01
+One Shot Trigger 01
+
+One Shot Trigger 02
+One Shot Trigger 02
+
+One Shot Trigger 03
+One Shot Trigger 03
+
+One Shot Trigger 04
+One Shot Trigger 04
+
+One Shot Trigger 05
+One Shot Trigger 05
+
+One Shot Trigger 06
+One Shot Trigger 06
+
+One Shot Trigger 07
+One Shot Trigger 07
+
+One Shot Trigger 08
+One Shot Trigger 08
+
+One Shot Trigger 09
+One Shot Trigger 09
+
+One Shot Trigger 0A
+One Shot Trigger 0A
+
+One Shot Trigger 0B
+One Shot Trigger 0B
+
+One Shot Trigger 0C
+One Shot Trigger 0C
+
+One Shot Trigger 0D
+One Shot Trigger 0D
+
+One Shot Trigger 0E
+One Shot Trigger 0E
+
+One Shot Trigger 0F
+One Shot Trigger 0F
+
+One Shot Trigger 10
+One Shot Trigger 10
+
+One Shot Trigger 11
+One Shot Trigger 11
+
+One Shot Trigger 12
+One Shot Trigger 12
+
+One Shot Trigger 13
+One Shot Trigger 13
+
+One Shot Trigger 14
+One Shot Trigger 14
+
+One Shot Trigger 15
+One Shot Trigger 15
+
+One Shot Trigger 16
+One Shot Trigger 16
+
+One Shot Trigger 17
+One Shot Trigger 17
+
+One Shot Trigger 18
+One Shot Trigger 18
+
+One Shot Trigger 19
+One Shot Trigger 19
+
+One Shot Trigger 1A
+One Shot Trigger 1A
+
+One Shot Trigger 1B
+One Shot Trigger 1B
+
+One Shot Trigger 1C
+One Shot Trigger 1C
+
+One Shot Trigger 1D
+One Shot Trigger 1D
+
+One Shot Trigger 1E
+One Shot Trigger 1E
+
+One Shot Trigger 1F
+One Shot Trigger 1F
+
+Next One Shot	Ctrl+Alt+F12
+Next One Shot	Ctrl+Alt+F12
+
+Previous One Shot	Ctrl+Alt+F11
+Previous One Shot	Ctrl+Alt+F11
+
+Activate One Shot	Ctrl+Alt+F10
+Activate One Shot	Ctrl+Alt+F10
+
+&One Shot Triggers
+&One Shot Triggers
+
+Manual Trigger 0 Increment
+Manual Trigger 0 Increment
+
+Manual Trigger 1 Increment
+Manual Trigger 1 Increment
+
+Manual Trigger 2 Increment
+Manual Trigger 2 Increment
+
+Manual Trigger 3 Increment
+Manual Trigger 3 Increment
+
+Manual Trigger 4 Increment
+Manual Trigger 4 Increment
+
+Manual Trigger 5 Increment
+Manual Trigger 5 Increment
+
+Manual Trigger 6 Increment
+Manual Trigger 6 Increment
+
+Manual Trigger 7 Increment
+Manual Trigger 7 Increment
+
+Manual Trigger 8 Increment
+Manual Trigger 8 Increment
+
+Manual Trigger 9 Increment
+Manual Trigger 9 Increment
+
+Manual Trigger A Increment
+Manual Trigger A Increment
+
+Manual Trigger B Increment
+Manual Trigger B Increment
+
+Manual Trigger C Increment
+Manual Trigger C Increment
+
+Manual Trigger D Increment
+Manual Trigger D Increment
+
+Manual Trigger E Increment
+Manual Trigger E Increment
+
+Manual Trigger F Increment
+Manual Trigger F Increment
+
+Manual Trigger 0 Decrement
+Manual Trigger 0 Decrement
+
+Manual Trigger 1 Decrement
+Manual Trigger 1 Decrement
+
+Manual Trigger 2 Decrement
+Manual Trigger 2 Decrement
+
+Manual Trigger 3 Decrement
+Manual Trigger 3 Decrement
+
+Manual Trigger 4 Decrement
+Manual Trigger 4 Decrement
+
+Manual Trigger 5 Decrement
+Manual Trigger 5 Decrement
+
+Manual Trigger 6 Decrement
+Manual Trigger 6 Decrement
+
+Manual Trigger 7 Decrement
+Manual Trigger 7 Decrement
+
+Manual Trigger 8 Decrement
+Manual Trigger 8 Decrement
+
+Manual Trigger 9 Decrement
+Manual Trigger 9 Decrement
+
+Manual Trigger A Decrement
+Manual Trigger A Decrement
+
+Manual Trigger B Decrement
+Manual Trigger B Decrement
+
+Manual Trigger C Decrement
+Manual Trigger C Decrement
+
+Manual Trigger D Decrement
+Manual Trigger D Decrement
+
+Manual Trigger E Decrement
+Manual Trigger E Decrement
+
+Manual Trigger F Decrement
+Manual Trigger F Decrement
+
+Next Manual	Ctrl+Alt+Shift+F12
+Next Manual	Ctrl+Alt+Shift+F12
+
+Previous Manual	Ctrl+Alt+Shift+F11
+Previous Manual	Ctrl+Alt+Shift+F11
+
+Increment Manual Frame	Ctrl+Alt+Shift+F10
+Increment Manual Frame	Ctrl+Alt+Shift+F10
+
+Decrement Manual Frame	Ctrl+Alt+Shift+F9
+Decrement Manual Frame	Ctrl+Alt+Shift+F9
+
+&Manual Triggers
+&Manual Triggers
+
+Have &Star	Ctrl+7
+Have &Star	Ctrl+7
+
+&Timer Below 100	Ctrl+8
+&Timer Below 100	Ctrl+8
+
+Have 5 &Yoshi Coins	Ctrl+9
+Have 5 &Yoshi Coins	Ctrl+9
+
+&ExAnimation Triggers
+&ExAnimation Triggers
+
+&Silver POW	F11
+&Silver POW	F11
+
+&POW	F12
+&POW	F12
+
+Special &World Passed	7
+Special &World Passed	7
+
+Invisible &POW Objects	8
+Invisible &POW Objects	8
+
+Other &Invisible Objects	9
+Other &Invisible Objects	9
+
+&On/Off Switch On	0
+&On/Off Switch On	0
+
+&Conditional Direct Map16 On	Ctrl+0
+&Conditional Direct Map16 On	Ctrl+0
+
+&Custom Sprites
+&Custom Sprites
+
+&512 Height Background
+&512 Height Background
+
+&Translucent Text and Outlines
+&Translucent Text and Outlines
+
+&Green Switch Blocks
+&Green Switch Blocks
+
+&Yellow Switch Blocks
+&Yellow Switch Blocks
+
+&Blue Switch Blocks
+&Blue Switch Blocks
+
+&Red Switch Blocks
+&Red Switch Blocks
+
+&Switch Blocks
+&Switch Blocks
+
+&View
+전망 (&V)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Editors
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+&Add Objects Window...	Shift+Z
+&Add Objects Window...	Shift+Z
+
+Add &Sprites Window...	Shift+X
+Add &Sprites Window...	Shift+X
+
+&Palette Editor Window...
+&Palette Editor Window...
+
+&8x8 Tile Editor Window...
+&8x8 Tile Editor Window...
+
+&16x16 Tile Map Editor Window...
+&16x16 Tile Map Editor Window...
+
+&Background Tile Map Editor Window...
+&Background Tile Map Editor Window...
+
+&Overworld Editor Window...
+&Overworld Editor Window...
+
+&Editors
+редактор (&E)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Level
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+&Super GFX Bypass...
+&Super GFX Bypass...
+
+Layer &3 GFX/Tilemap Bypass...
+Layer &3 GFX/Tilemap Bypass...
+
+B&ypass Standard FG/BG GFX List...
+B&ypass Standard FG/BG GFX List...
+
+Byp&ass Standard SP GFX List...
+Byp&ass Standard SP GFX List...
+
+&Extend Animated Tile GFX...
+&Extend Animated Tile GFX...
+
+&Old GFX Bypass...
+&Old GFX Bypass...
+
+&GFX Index in header...
+&GFX Index in header...
+
+Edit &Level ExAnimated Frames...
+Edit &Level ExAnimated Frames...
+
+Edit &Global ExAnimated Frames...
+Edit &Global ExAnimated Frames...
+
+Edit &Animation Settings...
+Edit &Animation Settings...
+
+Modify Screen E&xits...
+Modify Screen E&xits...
+
+Modify &Main and Midway Entrance...
+Modify &Main and Midway Entrance...
+
+Modify Secondary &Entrances...
+Modify Secondary &Entrances...
+
+Scan for &Undefined Exits
+Scan for &Undefined Exits
+
+Change P&roperties in header...
+Change P&roperties in header...
+
+&Change Properties in Sprite header...
+&Change Properties in Sprite header...
+
+Change &Other Properties...
+Change &Other Properties...
+
+Change La&yer 3 Settings...
+Change La&yer 3 Settings...
+
+&Bypass Music && Time Limit Setting...
+&Bypass Music && Time Limit Setting...
+
+&Level
+&Level
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Options
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+General &Options...
+General &Options...
+
+&Restore Point Options...
+&Restore Point Options...
+
+Change &Animation Rate...
+Change &Animation Rate...
+
+&Use FastROM Addressing for this ROM
+&Use FastROM Addressing for this ROM
+
+Enable &FastROM Speed && Apply Patch
+Enable &FastROM Speed && Apply Patch
+
+Use &SA-1 RAM Remap for this ROM
+Use &SA-1 RAM Remap for this ROM
+
+&Compression Options for this ROM...
+&Compression Options for this ROM...
+
+&Options
+&Opciones
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Help
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+&Contents
+&Contents
+
+&About Lunar Magic...
+&About Lunar Magic...
+
+&Help
+&Help
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Overworld Menu - File
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+&Reload && Discard Unsaved Changes
+&Reload && Discard Unsaved Changes
+
+&Save Overworld to ROM
+&Save Overworld to ROM
+
+&Load Credits...	Ctrl+F11
+&Load Credits...	Ctrl+F11
+
+&Save Credits...	Ctrl+F12
+&Save Credits...	Ctrl+F12
+
+&Credits
+&Credits
+
+&Load Title Screen...	F11
+&Load Title Screen...	F11
+
+&Save Title Screen...	F12
+&Save Title Screen...	F12
+
+Insert Title Moves &Playback ASM && Data...	Ctrl+P
+Insert Title Moves &Playback ASM && Data...	Ctrl+P
+
+Export Title Moves Playback Data...
+Export Title Moves Playback Data...
+
+Install Title Moves &Recording ASM...	Ctrl+R
+Install Title Moves &Recording ASM...	Ctrl+R
+
+&Uninstall Title Moves Recording ASM...	Ctrl+U
+&Uninstall Title Moves Recording ASM...	Ctrl+U
+
+&Title Screen
+&Title Screen
+
+&Load Layer 3 of Level	Alt+F11
+&Load Layer 3 of Level	Alt+F11
+
+&Save Layer 3 of Level to ROM && ExGFX File	Alt+F12
+&Save Layer 3 of Level to ROM && ExGFX File	Alt+F12
+
+&Preview Layer 3 in Level	Space
+&Preview Layer 3 in Level	Space
+
+&Layer 3 Level
+&Layer 3 Level
+
+&Load Layer 3 of Submap	Shift+F11
+&Load Layer 3 of Submap	Shift+F11
+
+&Save Layer 3 of Submap to ROM && ExGFX File	Shift+F12
+&Save Layer 3 of Submap to ROM && ExGFX File	Shift+F12
+
+&Layer 3 Submap
+&Layer 3 Submap
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Overworld Menu - Edit
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Layer 1 &16x16 Editor Mode	`
+Layer 1 &16x16 Editor Mode	`
+
+Layer 1 Event Editor &Mode	`
+Layer 1 Event Editor &Mode	`
+
+Layer 2 &8x8 Editor Mode	Esc
+Layer 2 &8x8 Editor Mode	Esc
+
+Layer 2 &Event Editor Mode	Esc
+Layer 2 &Event Editor Mode	Esc
+
+Sprite Editor &Mode	Tab
+Sprite Editor &Mode	Tab
+
+&Insert	Insert
+&Insert	Insert
+
+&Increase Palette of Event Tiles	Pg-Up
+&Increase Palette of Event Tiles	Pg-Up
+
+&Decrease Palette of Event Tiles	Pg-Down
+&Decrease Palette of Event Tiles	Pg-Down
+
+Increase Event Tile &Z Order	=
+Increase Event Tile &Z Order	=
+
+D&ecrease Event Tile Z Order	-
+D&ecrease Event Tile Z Order	-
+
+&Next Event	Pg-Up
+&Next Event	Pg-Up
+
+&Previous Event	Pg-Down
+&Previous Event	Pg-Down
+
+&Next Event Tile	Home
+&Next Event Tile	Home
+
+&Previous Event Tile	End
+&Previous Event Tile	End
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Overworld Menu - View
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Show &Level Numbers	F1
+Show &Level Numbers	F1
+
+Show &Event Numbers	F2
+Show &Event Numbers	F2
+
+Special &World Passed Palette	F3
+Special &World Passed Palette	F3
+
+Show &Star/Pipe Numbers	F5
+Show &Star/Pipe Numbers	F5
+
+Show &Exit Path Numbers	F6
+Show &Exit Path Numbers	F6
+
+Show &Koopa Teleport Numbers	F7
+Show &Koopa Teleport Numbers	F7
+
+Layer &1	1
+Layer &1	1
+
+Layer &2	2
+Layer &2	2
+
+&Sprite Data (Hex code)	5
+&Sprite Data (Hex code)	5
+
+&Future Layer 1 Tiles	7
+&Future Layer 1 Tiles	7
+
+&Static Layer 2 Tiles	8
+&Static Layer 2 Tiles	8
+
+Layer 1 &Mario Paths	9
+Layer 1 &Mario Paths	9
+
+Make All Mario Paths &Translucent	0
+Make All Mario Paths &Translucent	0
+
+Highlight &Next Event Tiles (Red)
+Highlight &Next Event Tiles (Red)
+
+Highlight &Previous Event Tiles (Blue)
+Highlight &Previous Event Tiles (Blue)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Overworld Menu - Editor
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Overworld &Palette Editor...
+Overworld &Palette Editor...
+
+8x8 Overworld Tile Selector...
+8x8 Overworld Tile Selector...
+
+Layer 1 &16x16 Tile Selector...
+Layer 1 &16x16 Tile Selector...
+
+Layer &2 Event Tile Selector...
+Layer &2 Event Tile Selector...
+
+Submap &GFX...
+Submap &GFX...
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Overworld Menu - Overworld
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Submap Layer &3 GFX/Tilemap Bypass...
+Submap Layer &3 GFX/Tilemap Bypass...
+
+&Change Max Event 6x6 Tile Area...
+&Change Max Event 6x6 Tile Area...
+
+Change Events &Passed...
+Change Events &Passed...
+
+Modify &Level Tile Settings...	Alt-Right Click
+Modify &Level Tile Settings...	Alt-Right Click
+
+&Destroy Level Tile Settings...
+&Destroy Level Tile Settings...
+
+Set &Koopa Teleport Here...
+Set &Koopa Teleport Here...
+
+&Exit Path Tile Settings...
+&Exit Path Tile Settings...
+
+&Star and Pipe Tile Settings...
+&Star and Pipe Tile Settings...
+
+&Link Star/Pipe/Exit Tiles Together...	Alt-Left Click
+&Link Star/Pipe/Exit Tiles Together...	Alt-Left Click
+
+Edit Boss Sequence &Text...
+Edit Boss Sequence &Text...
+
+Edit Message Box &Text...
+Edit Message Box &Text...
+
+Edit Level &Names...
+Edit Level &Names...
+
+Change &Boss Sequence Levels...
+Change &Boss Sequence Levels...
+
+Change &Special Message Levels...
+Change &Special Message Levels...
+
+Change &Special World Levels...
+Change &Special World Levels...
+
+Change &No-Auto-Move Levels...
+Change &No-Auto-Move Levels...
+
+Edit &Sprite List...
+Edit &Sprite List...
+
+Edit &Reveal Tile List...
+Edit &Reveal Tile List...
+
+Edit Submap &Music Selection...
+Edit Submap &Music Selection...
+
+Extra &Options...
+Extra &Options...
+
+&Overworld
+&Overworld
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Overworld Menu - Options
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+&Allow move/copy/paste/delete on Layer 1 Tile Settings
+&Allow move/copy/paste/delete on Layer 1 Tile Settings
+
+Auto-&Deselect on Editor Select
+Auto-&Deselect on Editor Select
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Overworld Menu - Help
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+O&ptions
+O&ptions
+
+&About Overworld Editor...
+&About Overworld Editor...
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Some Window Controls
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; The title
+Lunar Magic
+Lunar Magic
+
+Add Objects Window
+Add Objects Window
+
+Add Sprites Window
+Add Sprites Window
+
+8x8 Tile Editor
+8x8 Tile Editor
+
+Flip &X
+Flip &X
+
+Flip &Y
+Flip &Y
+
+&Rot. 90°
+&Rot. 90°
+
+&Rot. 90
+&Rot. 90°
+
+&Map Col.
+&Map Col.
+
+&Do Map
+&Do Map
+
+Page Up
+Page Up
+
+Page Dn.
+Page Dn.
+
+Pal. Up
+Pal. Up
+
+Pal. Dn.
+Pal. Dn.
+
+16x16 Tile Map Editor
+16x16 Tile Map Editor
+
+16x16 Tile Viewer
+16x16 Tile Viewer
+
+Select all FG tiles
+Select all FG tiles
+
+Select all BG tiles
+Select all BG tiles
+
+Select all tiles
+Select all tiles
+
+Edit 8x8 Attributes
+Edit 8x8 Attributes
+
+Edit 16x16 Attributes
+Edit 16x16 Attributes
+
+Flip X
+Flip X
+
+Flip Y
+Flip Y
+
+Background Tile Map Editor
+Background Tile Map Editor
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Some ASCII Text string
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; From Level Editor
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+%sEntrance to level %02X
+%s关卡 %02X 的入口点
+
+Midway Entrance
+Midway Entrance
+
+Secondary Entrance #%03X
+Secondary Entrance #%03X
+
+ to Level %03X
+ to Level %03X
+
+ : Exit to Level %X
+ : Exit to Level %X
+
+ : Secondary Exit #%X to %X
+ : Secondary Exit #%X to %X
+
+Opening ROM: %s...
+Opening ROM: %s...
+
+Selection %ix%i
+Selection %ix%i
+
+&About %s...
+&About %s...
+
+About %s...
+About %s...
+
+Rendering level %X...
+Rendering level %X...
+
+done.
+done.
+
+%s%s\r\n%s Object Command : %X
+%s%s\r\n%s Object Command : %X
+
+Invalid Area of Level %X.
+Invalid Area of Level %X.
+
+%i object%s selected.
+%i object%s selected.
+
+%i sprite%s selected.
+%i sprite%s selected.
+
+Move tiles %ix%i
+Move tiles %ix%i
+
+Move sprites %ix%i
+Move sprites %ix%i
+
+TS & TSW: %02X\r\nCGADSUB: %02X\r\nTM & TMW: %02X\r\nMax Screens: %02X\r\nLayout: %s
+TS & TSW: %02X\r\nCGADSUB: %02X\r\nTM & TMW: %02X\r\nMax Screens: %02X\r\nLayout: %s
+
+Sprite Layer: %02X\r\nFight Mode: %02X\r\nScreen Mode: %02X\r\nLayer 2: %s\r\nLayer 2 Interact: %s
+Sprite Layer: %02X\r\nFight Mode: %02X\r\nScreen Mode: %02X\r\nLayer 2: %s\r\nLayer 2 Interact: %s
+
+%s %s%s%slevel.
+%s %s%s%slevel.
+
+Time %02X00
+Time %02X00
+
+%02X Screen%s
+%02X Screen%s
+
+Index %X%s
+Index %X%s
+
+H-Scroll: %s, V-Scroll: %s
+H-Scroll: %s, V-Scroll: %s
+
+Slot %02X: %s
+Slot %02X: %s
+
+Type: %s
+Type: %s
+
+Trigger: %s
+Trigger: %s
+
+Frames %02X-%02X
+Frames %02X-%02X
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Level Editor - Other stuff
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+No Tile Selected for editing.
+No Tile Selected for editing.
+
+%s%s\r\nDirect Map16 Access Tile : %X
+%s%s\r\nDirect Map16 Access Tile : %X
+
+Palette %i
+Palette %i
+
+8x8 Overworld Tile Selector
+8x8 Overworld Tile Selector
+
+Priority
+Priority
+
+Apply Flip to all tiles.
+Apply Flip to all tiles.
+
+%03X Not Inserted
+%03X Not Inserted
+
+%02X Not Inserted
+%02X Not Inserted
+
+%02X DO NOT USE!
+%02X DO NOT USE!
+
+%02X Skip File
+%02X Skip File
+
+Tile 0x%X Address 0x%X.
+Tile 0x%X Address 0x%X.
+
+Tile 0x%X (Address 0x%X)
+Tile 0x%X (Address 0x%X)
+
+Palette %X
+Palette %X
+
+Invalid Area
+Invalid Area
+
+Tile 0x%X Selected.
+Tile 0x%X Selected.
+
+Page 0x%X
+Page 0x%X
+
+%i tile%s selected.
+%i tile%s selected.
+
+Layer 1 16x16 Tile Selector
+Layer 1 16x16 Tile Selector
+
+Layer 2 Event Tile Selector
+Layer 2 Event Tile Selector
+
+Palette %X of %s%s. %s
+Palette %X of %s%s. %s
+
+%s%s%s\r\nSprite Command : %X
+%s%s%s\r\nSprite Command : %X
+
+You can use the Home/End keys to change the local palette, and the Page Up/Down keys to change the submap palette.
+You can use the Home/End keys to change the local palette, and the Page Up/Down keys to change the submap palette.
+
+%s%s palette/graphics used for Event Tile area.
+%s%s palette/graphics used for Event Tile area.
+
+8x8 Tile Viewer
+8x8 Tile Viewer
+
+%X,%X:%X at %X
+%X,%X:%X at %X
+
+Open the 16x16 editor to pages %X+ to select other tiles you can use.
+Open the 16x16 editor to pages %X+ to select other tiles you can use.
+
+Tile %X.
+Tile %X.
+
+Direct Map16 Access Tile : %X
+Direct Map16 Access Tile : %X
+
+Back Area Color %X
+Back Area Color %X
+
+BG Palette %X
+BG Palette %X
+
+Sprite Palette %X
+Sprite Palette %X
+
+FG Palette %X
+FG Palette %X
+
+All GFX files have been extracted to:\r\n%s
+All GFX files have been extracted to:\r\n%s
+
+Main entrance into this level. You can adjust its properties using an alt-right click in sprite editing mode.
+Main entrance into this level. You can adjust its properties using an alt-right click in sprite editing mode.
+
+%s%s\r\nExtended Object Command : %X
+%s%s\r\nExtended Object Command : %X
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Tile Editor
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Priority --
+Priority --
+
+Priority Off
+Priority Off
+
+Priority On
+Priority On
+
+Palette --
+Palette --
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Level Entry
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Do Nothing - Cannot Bring Item
+Do Nothing - Cannot Bring Item
+
+Horizontal Pipe Exit Left
+Horizontal Pipe Exit Left
+
+Horizontal Pipe Exit Right
+Horizontal Pipe Exit Right
+
+Vertical Pipe Exit Up
+Vertical Pipe Exit Up
+
+Vertical Pipe Exit Down
+Vertical Pipe Exit Down
+
+Do Nothing (Slippery Level) - Cannot Bring Item
+Do Nothing (Slippery Level) - Cannot Bring Item
+
+Shoot From Slanted Pipe Right
+Shoot From Slanted Pipe Right
+
+Vertical Pipe Exit Down (Water Level)
+Vertical Pipe Exit Down (Water Level)
+
+S=0 (Top)
+S=0 (Top)
+
+S=1 (Bottom)
+S=1 (Bottom)
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Palette
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Mario Palette
+Mario Palette
+
+Luigi Palette
+Luigi Palette
+
+Mario Flower Palette
+Mario Flower Palette
+
+Luigi Flower Palette
+Luigi Flower Palette
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Status bar, (Ex)GFX
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Extracting GFX %02X...
+Extracting GFX %02X...
+
+Inserting GFX %02X...
+Inserting GFX %02X...
+
+GFX Insertion Complete! (0x%X + 0x%X = 0x%X bytes)
+GFX Insertion Complete! (0x%X + 0x%X = 0x%X bytes)
+
+ExGFX Insertion Complete! (0x%X bytes)
+ExGFX Insertion Complete! (0x%X bytes)
+
+Insert all GFX to ROM.
+Insert all GFX to ROM.
+
+Insert all ExGFX to ROM.
+Insert all ExGFX to ROM.
+
+GFX Extraction Complete!
+GFX Extraction Complete!
+
+ExGFX Extraction Complete!
+ExGFX Extraction Complete!
+
+Erasing ExGFX from ROM...
+Erasing ExGFX from ROM...
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Layer 3 Settings
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+%s (current tileset is %X:%s)
+%s (current tileset is %X:%s)
+
+No Layer 3
+No Layer 3
+
+Water, high and low tides
+Water, high and low tides
+
+Water, low tide only (smasher if tileset is 1)
+Water, low tide only (smasher if tileset is 1)
+
+None
+None
+
+Constant
+Constant
+
+Variable
+Variable
+
+Variable 2
+Variable 2
+
+Slow
+Slow
+
+Not Used
+Not Used
+
+Auto-Scroll Up Slow
+Auto-Scroll Up Slow
+
+Auto-Scroll Up Normal
+Auto-Scroll Up Normal
+
+Auto-Scroll Up Fast
+Auto-Scroll Up Fast
+
+Auto-Scroll Up Fast 2
+Auto-Scroll Up Fast 2
+
+Auto-Scroll Down Slow
+Auto-Scroll Down Slow
+
+Auto-Scroll Down Normal
+Auto-Scroll Down Normal
+
+Auto-Scroll Down Fast
+Auto-Scroll Down Fast
+
+Auto-Scroll Down Fast 2
+Auto-Scroll Down Fast 2
+
+Not Used 1
+Not Used 1
+
+Not Used 2
+Not Used 2
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Time Music Bypass
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Do not bypass level header set
+Do not bypass level header set
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Add Objects
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Standard Objects
+Standard Objects
+
+Tileset Specific Objects
+Tileset Specific Objects
+
+Extended Objects
+Extended Objects
+
+Direct Map16 Access (Lunar Magic)
+Direct Map16 Access (Lunar Magic)
+
+CTRL + Right Click to paste from here into level in layer editing mode.
+CTRL + Right Click to paste from here into level in layer editing mode.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Add Sprites
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Standard Sprites
+Standard Sprites
+
+Tileset Specific Sprites
+Tileset Specific Sprites
+
+Special Commands and Generators
+Special Commands and Generators
+
+Custom Collections of Sprites
+Custom Collections of Sprites
+
+Remember to hit F9 to save changes.
+Remember to hit F9 to save changes.
+
+CTRL + Right Click to paste from here into level in sprite editing mode.
+CTRL + Right Click to paste from here into level in sprite editing mode.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Level Properties
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+No Vertical Scroll
+No Vertical Scroll
+
+Vertical Scroll at Will
+Vertical Scroll at Will
+
+No Vertical Scroll unless Flying/Climbing/Etc
+No Vertical Scroll unless Flying/Climbing/Etc
+
+No Vertical or Horizontal Scroll
+No Vertical or Horizontal Scroll
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Overworld Editor
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Overworld Editor
+Overworld Editor
+
+Tile 0x%X.
+Tile 0x%X.
+
+Tile 0x%X %s.
+Tile 0x%X %s.
+
+%X: %02X Not used
+%X: %02X Not used
+
+%02X, %02X, and %02X.
+%02X, %02X, and %02X.
+
+Font: %s%s
+Font: %s%s
+
+ Slow
+ Slow
+
+ Normal
+ Normal
+
+ Fast
+ Fast
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Misc
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+Change Compression.
+Change Compression.
+
+ - %s to %s.
+ - %s to %s.
+
+Open "16x16 Tile Map Editor" Window. Background tiles are on pages %X+. To paste selected tiles from this, hold down control and right click in background editor. You can also double click a tile in the background editor to auto-select it in the Map16 editor.
+Open "16x16 Tile Map Editor" Window. Background tiles are on pages %X+. To paste selected tiles from this, hold down control and right click in background editor. You can also double click a tile in the background editor to auto-select it in the Map16 editor.
+
+Page you wish to jump to. The foreground tiles start on page %X, while the background tiles start on page 0x%X.
+Page you wish to jump to. The foreground tiles start on page %X, while the background tiles start on page 0x%X.
+
+%s : Super Mario World Level Editor
+%s : Super Mario World Level Editor
+
